@@ -1,3 +1,3 @@
 # thundernetwork
 
-Active development of this project has been moved to ![blockchain/thunder](https://github.com/blockchain/thunder)
+Active development of this project has been moved to [blockchain](https://github.com/blockchain/thunder "blockchain")
